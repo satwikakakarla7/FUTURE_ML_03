@@ -1,0 +1,8 @@
+Ananya
+B.Tech Candidate — Machine Learning
+
+Technical Skills:
+Python, Machine Learning, Pandas, NumPy, Scikit-learn, SQL, Git, Statistics, Matplotlib, NLP
+
+Projects:
+Built academic data-analysis and machine-learning projects using the listed technologies.

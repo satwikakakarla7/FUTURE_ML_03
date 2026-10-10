@@ -1,0 +1,8 @@
+Vikram
+B.Tech Candidate — Machine Learning
+
+Technical Skills:
+Python, Scikit-learn, Statistics, SQL, Git, TensorFlow, NLP
+
+Projects:
+Built academic data-analysis and machine-learning projects using the listed technologies.

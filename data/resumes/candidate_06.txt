@@ -1,0 +1,8 @@
+Isha
+B.Tech Candidate — Machine Learning
+
+Technical Skills:
+Python, Pandas, NumPy, Matplotlib, Jupyter, SQL
+
+Projects:
+Built academic data-analysis and machine-learning projects using the listed technologies.

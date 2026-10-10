@@ -1,0 +1,8 @@
+Aarav
+B.Tech Candidate — Machine Learning
+
+Technical Skills:
+Python, Machine Learning, Pandas, NumPy, Scikit-learn, SQL, Git, Statistics, NLP, Jupyter
+
+Projects:
+Built academic data-analysis and machine-learning projects using the listed technologies.

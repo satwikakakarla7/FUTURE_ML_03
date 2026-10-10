@@ -1,0 +1,8 @@
+Kabir
+B.Tech Candidate — Machine Learning
+
+Technical Skills:
+Java, Python, Machine Learning, SQL, Git, NLP, TensorFlow
+
+Projects:
+Built academic data-analysis and machine-learning projects using the listed technologies.

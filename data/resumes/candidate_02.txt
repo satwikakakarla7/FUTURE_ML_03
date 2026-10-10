@@ -1,0 +1,8 @@
+Diya
+B.Tech Candidate — Machine Learning
+
+Technical Skills:
+Python, Pandas, NumPy, Scikit-learn, SQL, Git, Statistics, Matplotlib
+
+Projects:
+Built academic data-analysis and machine-learning projects using the listed technologies.

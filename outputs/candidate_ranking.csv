@@ -1,0 +1,9 @@
+rank,candidate,fit_score,tfidf_similarity,required_skill_coverage_percent,preferred_skill_coverage_percent,matched_skills,skill_gaps
+1,Aarav,84.06,0.4063,100.0,50.0,"git, jupyter, machine learning, nlp, numpy, pandas, python, scikit-learn, sql, statistics",None
+2,Ananya,84.06,0.4063,100.0,50.0,"git, machine learning, matplotlib, nlp, numpy, pandas, python, scikit-learn, sql, statistics",None
+3,Diya,78.56,0.356,100.0,25.0,"git, machine learning, matplotlib, numpy, pandas, python, scikit-learn, sql, statistics",None
+4,Vikram,66.0,0.3499,75.0,50.0,"git, machine learning, nlp, python, scikit-learn, sql, statistics, tensorflow","numpy, pandas"
+5,Meera,64.5,0.3249,87.5,0.0,"git, machine learning, pandas, python, scikit-learn, sql, statistics",numpy
+6,Rohan,62.25,0.3496,62.5,75.0,"git, jupyter, machine learning, nlp, numpy, pandas, python, tensorflow","scikit-learn, sql, statistics"
+7,Isha,56.67,0.2919,62.5,50.0,"jupyter, machine learning, matplotlib, numpy, pandas, python, sql","git, scikit-learn, statistics"
+8,Kabir,47.85,0.2845,50.0,50.0,"git, machine learning, nlp, python, sql, tensorflow","numpy, pandas, scikit-learn, statistics"
